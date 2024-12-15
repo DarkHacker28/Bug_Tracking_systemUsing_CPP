@@ -49,7 +49,7 @@ To get started with the Bug Tracking System locally, follow these steps:
 
 Clone the repository:
 
-git clone https://github.com/yourusername/bug-tracking-system.git
+git clone https://github.com/DarkHacker28/Bug_Tracking_systemUsing_CPP
 
 Navigate to the project directory:
 
